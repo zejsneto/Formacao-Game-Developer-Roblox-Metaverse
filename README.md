@@ -6,6 +6,10 @@ Formação Game Developer: Roblox &amp; Metaverse da DIO. <br>
 
 Link: [Ver Formação](https://web.dio.me/track/formacao-game-developer-roblox)
 
+Link para entrega de projeto 1: <br>
+
+Link: [Ver Formação](colarAqui)
+
 ---
 <!--
 ## 👁️‍🗨️ Preview
