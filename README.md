@@ -4,7 +4,7 @@
 
 Formação Game Developer: Roblox &amp; Metaverse da DIO. <br>
 
-Link: [Ver Trilha]([https://zejsneto.github.io/Dynamic-Digital-Clock/](https://web.dio.me/track/formacao-game-developer-roblox))
+Link: [Ver Formação](https://web.dio.me/track/formacao-game-developer-roblox)
 
 ---
 <!--
