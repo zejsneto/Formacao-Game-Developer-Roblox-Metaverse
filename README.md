@@ -8,7 +8,7 @@ Link: [Ver Formação](https://web.dio.me/track/formacao-game-developer-roblox)
 
 Link para entrega de projeto 1: <br>
 
-Link: [Ver Formação](colarAqui)
+Link: [Ver Entrega Projeto 1](https://www.roblox.com/games/15478367644/PORTFOLIO-Zombie-Survival-Game)
 
 ---
 <!--
